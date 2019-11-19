@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>http://app.569568.vip/public/app/app/fhcp.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://app.569568.vip/public/app/images/logo.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
